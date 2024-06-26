@@ -1,0 +1,12 @@
+#PROGRAM
+
+a = input("ENTER TWO NUMBERS : ")
+b = input()
+sum = int(a)+int(b)
+diff = int(a)-int(b)
+pro = int(a)*int(b)
+quo = int(a)/int(b)
+print("SUM : "+str(sum))
+print("DIFFERENCE : "+str(diff))
+print("PRODUCT : "+str(pro))
+print("QUOTIENT : "+str(quo))
