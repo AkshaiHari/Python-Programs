@@ -1,5 +1,6 @@
 #PROGRAM
 
+
 a = input("ENTER TWO NUMBERS : ")
 b = input()
 sum = int(a)+int(b)
